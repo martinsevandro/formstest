@@ -1,6 +1,6 @@
 # Projeto Formulário de Sign In!
 
-Para ver o projeto ao vivo, [Clique aqui](https://martinsevandro.github.io/formstest/)
+Para ver o projeto ao vivo, [clique aqui](https://martinsevandro.github.io/formstest/)
 
 ![Projeto preview](https://raw.githubusercontent.com/martinsevandro/formstest/master/assets/project-preview.png)
 
